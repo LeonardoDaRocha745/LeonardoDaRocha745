@@ -1,16 +1,59 @@
-### Hi there 👋
+### Olá! Eu sou o Leonardo , bem vindo ao meu perfil 😊🤙
 
-<!--
-**LeonardoDaRocha745/LeonardoDaRocha745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rocha-651765198/)
 
-Here are some ideas to get you started:
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoDaRocha745&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que uso no meu dia
+
+<div style=""display: inline_block><br/>
+<img align= "center" alt ="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img align= "center" alt ="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align= "center" alt ="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align= "center" alt ="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align= "center" alt ="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+
+<img align= "center" alt ="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+
+<img align= "center" alt ="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+</div>
+<br/>
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoDaRocha745&layout=compact)](https://github.com/LeonardoDaRocha745/github-readme-stats)
+
+
+
+
+## Sobre mim:
+
+Apaixonado por tecnologia e por desenvolvimento de aplicações mobile e websites📱🌐💕,possuo uma enorme dedicação e foco em meus projetos e estudos 📚, estou me formando em Sistemas de informação pela FIAP, e atuo como desenvolvedor pelo CREMESP 💻💚
+
+## Projetos:
+<br/>
+
+- 2019 FIAP ROBOCUP | Criação de um robô para participar de duelos onde o
+principal objetivo é estourar o balão que o adversário
+carrega, o robô feito em arduino é movido por um APK no celular, e suas
+armas são ativadas por uma chave fim de curso, criamos
+também um site para ele usando HTML e CSS.
+
+<br/>
+
+- 2021 Aplicativo CREMESP | Desenvolvimento do aplicativo do CREMESP feito aos médicos com acesso ao seu perfil privado e suas plataformas digitais web
+
+<br/>
+
+- 2021 Snake Game | Desenvolvimento de um jogo da cobra feito totalmente em flutter 
+<br/>
+
+- 2021 Site Clube de benefícios CREMESP | Criação e desenvolvimento do Site de benefícios do CREMESP
+
+<br/>
+
+- 2021 FIAP Challenge Aplicativo TCESP | Desenvolvimento de um aplicativo para o TCESP, de registro e cadastro de muícipios e relatórios dos fiscais.
+
+
+
+
