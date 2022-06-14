@@ -64,11 +64,11 @@ também um site para ele usando HTML e CSS.
 
 <br/>
 
--2022 Plataforma de aprendizado de Inglês | Aplicação Web feita em angular de tradução de frases em inglês
+- 2022 Plataforma de aprendizado de Inglês | Aplicação Web feita em angular de tradução de frases em inglês
 
 <br/>
 
--2022 Site de compras de Jogos | Aplicação Web feita em Angular para visualizar promoções de Jogos, detalhes, e sobre os jogos com dados alimentados por API Rest
+- 2022 Site de compras de Jogos | Aplicação Web feita em Angular para visualizar promoções de Jogos, detalhes, e sobre os jogos com dados alimentados por API Rest
 
 
 
