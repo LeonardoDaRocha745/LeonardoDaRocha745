@@ -45,19 +45,30 @@ também um site para ele usando HTML e CSS.
 
 <br/>
 
-- 2021 Aplicativo CREMESP | Desenvolvimento do aplicativo do CREMESP feito aos médicos com acesso ao seu perfil privado e suas plataformas digitais web
+- 2021 Aplicativo CREMESP | Desenvolvimento do aplicativo do CREMESP feito aos médicos com acesso ao seu perfil privado e suas plataformas digitais web, desenvolvido em Flutter
 
 <br/>
 
 - 2021 Snake Game | Desenvolvimento de um jogo da cobra feito totalmente em flutter 
 <br/>
 
-- 2021 Site Clube de benefícios CREMESP | Criação e desenvolvimento do Site de benefícios do CREMESP
+- 2021 Site Clube de benefícios CREMESP | Criação e desenvolvimento do Site de benefícios do CREMESP, feito em HTML,CSS, Javascript e PHP
 
 <br/>
 
-- 2021 FIAP Challenge Aplicativo TCESP | Desenvolvimento de um aplicativo para o TCESP, de registro e cadastro de muícipios e relatórios dos fiscais.
+- 2021 FIAP Challenge Aplicativo TCESP | Desenvolvimento de um aplicativo para o TCESP, de registro e cadastro de muícipios e relatórios dos fiscais feito em Kotlin
 
+<br/>
+
+- 2022 Gerenciamento do Clube de benefícios CREMESP | Desenvolvimento de um gerenciador de conteúdo, com publicação, edição, cadastro, exclusão dos benefícios de forma manual, feito em HTML,CSS,Javascript,PHP,mySQL
+
+<br/>
+
+-2022 Plataforma de aprendizado de Inglês | Aplicação Web feita em angular de tradução de frases em inglês
+
+<br/>
+
+-2022 Site de compras de Jogos | Aplicação Web feita em Angular para visualizar promoções de Jogos, detalhes, e sobre os jogos com dados alimentados por API Rest
 
 
 
