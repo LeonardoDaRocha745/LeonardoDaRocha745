@@ -68,7 +68,13 @@ também um site para ele usando HTML e CSS.
 
 <br/>
 
-- 2022 Site de compras de Jogos | Aplicação Web feita em Angular para visualizar promoções de Jogos, detalhes, e sobre os jogos com dados alimentados por API Rest
+- 2022 Saude para os médicos | Um simples site informativo sobre os benefícios para médicos relacionado a saúde, feito com PHP
+
+<br/>
+
+- 2022 Medicina em foco | Um projeto que objetiva proporcionar ao usuário acesso a textos sobre as diversas especialidades médicas, os artigos são criados e gerenciados por um cms feito em php,jquery,mysql com requisições AJAX e o front end em HTML,CSS e Bootstrap
+
+
 
 
 
