@@ -68,11 +68,11 @@ também um site para ele usando HTML e CSS.
 
 <br/>
 
-- 2022 Saude para os médicos | Um simples site informativo sobre os benefícios para médicos relacionado a saúde, feito com PHP
+- 2022 Saude para os médicos CREMESP | Um simples site informativo sobre os benefícios para médicos relacionado a saúde, feito com PHP
 
 <br/>
 
-- 2022 Medicina em foco | Um projeto que objetiva proporcionar ao usuário acesso a textos sobre as diversas especialidades médicas, os artigos são criados e gerenciados por um cms feito em php,jquery,mysql com requisições AJAX e o front end em HTML,CSS e Bootstrap
+- 2022 Medicina em foco CREMESP | Um projeto que objetiva proporcionar ao usuário acesso a textos sobre as diversas especialidades médicas, os artigos são criados e gerenciados por um cms feito em php,jquery,mysql com requisições AJAX e o front end em HTML,CSS e Bootstrap
 
 
 
