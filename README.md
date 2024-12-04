@@ -32,7 +32,7 @@
 
 ## Sobre mim:
 
-Apaixonado por tecnologia e por desenvolvimento de aplicações mobile e websites📱🌐💕,possuo uma enorme dedicação e foco em meus projetos e estudos 📚, estou me formando em Sistemas de informação pela FIAP, e atuo como desenvolvedor pela Caixa Vida e Previdência 💻💙🧡
+Apaixonado por tecnologia e por desenvolvimento de aplicações mobile e websites📱🌐💕,possuo uma enorme dedicação e foco em meus projetos e estudos 📚, sou formado em Sistemas de informação pela FIAP, e atuo como Engenheiro de Software pelo Santander 💻💗🖤
 
 ## Projetos:
 <br/>
